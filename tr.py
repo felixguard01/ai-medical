@@ -7,7 +7,7 @@ import pandas as pd  # สมมติคุณใช้ pandas เพื่อ�
 # อ่านข้อมูลจากไฟล์ CSV
 data = pd.read_csv("your_data.csv") 
 
-# แยกข้อมูล features และ target
+# แยกข้อมูล features และ targetkokoko
 x_train = data[['feature1', 'feature2', ...]] 
 y_train = data['target'] 
 
