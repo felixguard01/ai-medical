@@ -1,0 +1,1139 @@
+Column1,filename,gender,age,lumbar,diagnosis_number,diagnosis_title
+0,0014-F-062Y0,F,62,L3b,2,Right Laterolisthesis
+1,0021-F-079Y0,F,79,L2b,2,Right Laterolisthesis
+2,0159-M-062Y0,M,62,L3b,1,Left Laterolisthesis
+3,0220-F-069Y0,F,69,L4b,2,Right Laterolisthesis
+4,0223-F-063Y0,F,63,L4b,1,Left Laterolisthesis
+5,0238-F-067Y0,F,67,L3b,2,Right Laterolisthesis
+6,0250-F-069Y0,F,69,L4b,1,Left Laterolisthesis
+7,0277-F-050Y0,F,50,L3b,2,Right Laterolisthesis
+8,0316-F-074Y0,F,74,L3b,2,Right Laterolisthesis
+9,0430-M-060Y0,M,60,L3b,2,Right Laterolisthesis
+10,0681-F-066Y0,F,66,L4b,2,Right Laterolisthesis
+11,0710-M-059Y0,M,59,L4b,1,Left Laterolisthesis
+12,0729-F-052Y0,F,52,L2b,1,Left Laterolisthesis
+13,0770-F-071Y0,F,71,L4b,1,Left Laterolisthesis
+14,0846-F-059Y0,F,59,L3b,1,Left Laterolisthesis
+15,0863-F-068Y0,F,68,L3b,2,Right Laterolisthesis
+16,0866-F-079Y0,F,79,L2b,1,Left Laterolisthesis
+17,0899-F-060Y0,F,60,L4b,2,Right Laterolisthesis
+18,1060-F-084Y0,F,84,L3b,2,Right Laterolisthesis
+19,1083-F-076Y0,F,76,L3b,1,Left Laterolisthesis
+20,1111-F-069Y0,F,69,L3b,2,Right Laterolisthesis
+21,1202-M-056Y0,M,56,L3b,2,Right Laterolisthesis
+22,1252-M-086Y0,M,86,L3b,1,Left Laterolisthesis
+23,1255-F-069Y0,F,69,L3b,2,Right Laterolisthesis
+24,1359-M-087Y0,M,87,L1b,1,Left Laterolisthesis
+25,1391-F-062Y0,F,62,L3b,2,Right Laterolisthesis
+26,1396-M-084Y0,M,84,L4b,1,Left Laterolisthesis
+27,1411-F-052Y0,F,52,L4b,1,Left Laterolisthesis
+28,1439-M-067Y0,M,67,L3b,1,Left Laterolisthesis
+29,1597-M-077Y0,M,77,L3b,2,Right Laterolisthesis
+30,1607-F-066Y0,F,66,L3b,2,Right Laterolisthesis
+31,1607-F-066Y0,F,66,L4b,1,Left Laterolisthesis
+32,1628-F-083Y0,F,83,L3b,1,Left Laterolisthesis
+33,1682-M-082Y0,M,82,L4b,2,Right Laterolisthesis
+34,1709-M-085Y0,M,85,L3b,2,Right Laterolisthesis
+35,1810-F-058Y0,F,58,L3b,2,Right Laterolisthesis
+36,1827-F-064Y0,F,64,L3b,1,Left Laterolisthesis
+37,2077-F-056Y0,F,56,L2b,2,Right Laterolisthesis
+38,2114-M-072Y0,M,72,L3b,2,Right Laterolisthesis
+39,2199-F-077Y0,F,77,L4b,2,Right Laterolisthesis
+40,2256-F-072Y0,F,72,L1b,2,Right Laterolisthesis
+41,2256-F-072Y0,F,72,L4b,1,Left Laterolisthesis
+42,2267-M-085Y0,M,85,L3b,2,Right Laterolisthesis
+43,2370-F-054Y0,F,54,L3b,2,Right Laterolisthesis
+44,2440-M-054Y0,M,54,L4b,2,Right Laterolisthesis
+45,2502-F-062Y0,F,62,L4b,1,Left Laterolisthesis
+46,2546-F-046Y0,F,46,L4b,1,Left Laterolisthesis
+47,2547-F-051Y0,F,51,L2b,1,Left Laterolisthesis
+48,2567-M-055Y0,M,55,L4b,2,Right Laterolisthesis
+49,2623-M-063Y0,M,63,L4b,2,Right Laterolisthesis
+50,2782-M-059Y0,M,59,L3b,2,Right Laterolisthesis
+51,2793-M-078Y0,M,78,L4b,1,Left Laterolisthesis
+52,2841-F-078Y0,F,78,L3b,2,Right Laterolisthesis
+53,2858-F-076Y0,F,76,L3b,1,Left Laterolisthesis
+54,2871-F-080Y0,F,80,L4b,2,Right Laterolisthesis
+55,2888-F-073Y0,F,73,L1b,2,Right Laterolisthesis
+56,2888-F-073Y0,F,73,L3b,1,Left Laterolisthesis
+57,2899-F-050Y0,F,50,L4b,2,Right Laterolisthesis
+58,2904-F-081Y0,F,81,L4b,2,Right Laterolisthesis
+59,2990-F-074Y0,F,74,L3b,1,Left Laterolisthesis
+60,3077-M-054Y0,M,54,L4b,2,Right Laterolisthesis
+61,3101-M-036Y0,M,36,L3b,2,Right Laterolisthesis
+62,3134-F-078Y0,F,78,L3b,2,Right Laterolisthesis
+63,3162-F-068Y0,F,68,L2b,1,Left Laterolisthesis
+64,3173-F-064Y0,F,64,L3b,1,Left Laterolisthesis
+65,3213-M-057Y0,M,57,L4b,1,Left Laterolisthesis
+66,3217-F-078Y0,F,78,L2b,1,Left Laterolisthesis
+67,3217-F-078Y0,F,78,L4b,2,Right Laterolisthesis
+68,3229-F-052Y0,F,52,L4b,1,Left Laterolisthesis
+69,3235-F-066Y0,F,66,L4b,1,Left Laterolisthesis
+70,3279-F-078Y0,F,78,L4b,1,Left Laterolisthesis
+71,3282-F-063Y0,F,63,L4b,2,Right Laterolisthesis
+72,3313-F-034Y0,F,34,L4b,1,Left Laterolisthesis
+73,3319-F-061Y0,F,61,L2b,2,Right Laterolisthesis
+74,3320-F-072Y0,F,72,L4b,2,Right Laterolisthesis
+75,3378-M-079Y0,M,79,L4b,2,Right Laterolisthesis
+76,3381-M-050Y0,M,50,L3b,2,Right Laterolisthesis
+77,3390-F-063Y0,F,63,L4b,1,Left Laterolisthesis
+78,3405-M-076Y0,M,76,L2b,2,Right Laterolisthesis
+79,3405-M-076Y0,M,76,L3b,1,Left Laterolisthesis
+80,3418-F-060Y0,F,60,L3b,1,Left Laterolisthesis
+81,3435-F-079Y0,F,79,L3b,1,Left Laterolisthesis
+82,3476-F-060Y0,F,60,L2b,2,Right Laterolisthesis
+83,3476-F-060Y0,F,60,L4b,1,Left Laterolisthesis
+84,3498-F-053Y0,F,53,L3b,1,Left Laterolisthesis
+85,3542-M-063Y0,M,63,L4b,2,Right Laterolisthesis
+86,3565-F-069Y0,F,69,L3b,1,Left Laterolisthesis
+87,3569-M-062Y0,M,62,L4b,1,Left Laterolisthesis
+88,3575-M-070Y0,M,70,L4b,2,Right Laterolisthesis
+89,3590-F-069Y0,F,69,L4b,2,Right Laterolisthesis
+90,3593-F-051Y0,F,51,L3b,2,Right Laterolisthesis
+91,3606-F-074Y0,F,74,L3b,2,Right Laterolisthesis
+92,3614-F-055Y0,F,55,L4b,2,Right Laterolisthesis
+93,3626-M-083Y0,M,83,L4b,1,Left Laterolisthesis
+94,3710-M-065Y0,M,65,L2b,2,Right Laterolisthesis
+95,3710-M-065Y0,M,65,L3b,2,Right Laterolisthesis
+96,3710-M-065Y0,M,65,L4b,1,Left Laterolisthesis
+97,3745-M-082Y0,M,82,L2b,2,Right Laterolisthesis
+98,3778-F-063Y0,F,63,L4b,2,Right Laterolisthesis
+99,3802-M-093Y0,M,93,L2b,2,Right Laterolisthesis
+100,3802-M-093Y0,M,93,L3b,2,Right Laterolisthesis
+101,3808-F-065Y0,F,65,L3b,1,Left Laterolisthesis
+102,3808-F-065Y0,F,65,L4b,2,Right Laterolisthesis
+103,3865-F-070Y0,F,70,L1b,2,Right Laterolisthesis
+104,3865-F-070Y0,F,70,L2b,1,Left Laterolisthesis
+105,3898-F-047Y0,F,47,L3b,2,Right Laterolisthesis
+106,3977-F-066Y0,F,66,L1b,2,Right Laterolisthesis
+107,3977-F-066Y0,F,66,L3b,1,Left Laterolisthesis
+108,3977-F-066Y0,F,66,L4b,1,Left Laterolisthesis
+109,4106-F-063Y0,F,63,L4b,1,Left Laterolisthesis
+110,4108-M-070Y0,M,70,L2b,2,Right Laterolisthesis
+111,4108-M-070Y0,M,70,L3b,1,Left Laterolisthesis
+112,4125-F-082Y0,F,82,L3b,1,Left Laterolisthesis
+113,4133-F-062Y0,F,62,L4b,1,Left Laterolisthesis
+114,4141-M-083Y0,M,83,L4b,2,Right Laterolisthesis
+115,4191-M-083Y0,M,83,L4b,1,Left Laterolisthesis
+116,4232-F-058Y0,F,58,L3b,2,Right Laterolisthesis
+117,4286-M-064Y0,M,64,L4b,2,Right Laterolisthesis
+118,4372-F-063Y0,F,63,L3b,1,Left Laterolisthesis
+119,4405-M-074Y0,M,74,L4b,1,Left Laterolisthesis
+120,4415-F-078Y0,F,78,L3b,1,Left Laterolisthesis
+121,4415-F-078Y0,F,78,L4b,2,Right Laterolisthesis
+122,4433-F-065Y0,F,65,L3b,2,Right Laterolisthesis
+123,4608-F-079Y0,F,79,L4b,1,Left Laterolisthesis
+124,4646-M-059Y0,M,59,L4b,1,Left Laterolisthesis
+125,4671-F-069Y0,F,69,L3b,2,Right Laterolisthesis
+126,4725-F-083Y0,F,83,L2b,1,Left Laterolisthesis
+127,4725-F-083Y0,F,83,L3b,1,Left Laterolisthesis
+128,4730-F-051Y0,F,51,L1b,1,Left Laterolisthesis
+129,4908-M-065Y0,M,65,L4b,1,Left Laterolisthesis
+130,4959-M-081Y0,M,81,L4b,2,Right Laterolisthesis
+131,4969-F-088Y0,F,88,L2b,1,Left Laterolisthesis
+132,4999-M-041Y0,M,41,L4b,1,Left Laterolisthesis
+133,5012-F-068Y0,F,68,L2b,2,Right Laterolisthesis
+134,5012-F-068Y0,F,68,L3b,2,Right Laterolisthesis
+135,5012-F-068Y0,F,68,L4b,1,Left Laterolisthesis
+136,5087-F-062Y0,F,62,L3b,1,Left Laterolisthesis
+137,5098-F-077Y0,F,77,L3b,1,Left Laterolisthesis
+138,5146-F-061Y0,F,61,L3b,2,Right Laterolisthesis
+139,5656-M-072Y0,M,72,L4b,1,Left Laterolisthesis
+140,6111-F-063Y0,F,63,L3b,2,Right Laterolisthesis
+141,6126-F-081Y0,F,81,L4b,1,Left Laterolisthesis
+142,6188-F-084Y0,F,84,L2b,2,Right Laterolisthesis
+143,6222-F-055Y0,F,55,L4b,2,Right Laterolisthesis
+144,6244-F-052Y0,F,52,L2b,1,Left Laterolisthesis
+145,6245-F-072Y0,F,72,L4b,2,Right Laterolisthesis
+146,6253-M-070Y0,M,70,L4b,2,Right Laterolisthesis
+147,6272-F-056Y0,F,56,L3b,1,Left Laterolisthesis
+148,6286-F-020Y0,F,20,L2b,1,Left Laterolisthesis
+149,6536-M-064Y0,M,64,L3b,2,Right Laterolisthesis
+150,6598-F-064Y0,F,64,L3b,1,Left Laterolisthesis
+151,6655-F-077Y0,F,77,L3b,1,Left Laterolisthesis
+152,6656-M-073Y0,M,73,L1b,1,Left Laterolisthesis
+153,6673-F-080Y0,F,80,L4b,1,Left Laterolisthesis
+154,6682-F-054Y0,F,54,L3b,2,Right Laterolisthesis
+155,6698-F-078Y0,F,78,L3b,2,Right Laterolisthesis
+156,6804-F-073Y0,F,73,L1b,1,Left Laterolisthesis
+157,6850-F-057Y0,F,57,L4b,2,Right Laterolisthesis
+158,7050-F-080Y0,F,80,L3b,2,Right Laterolisthesis
+159,7054-F-087Y0,F,87,L3b,1,Left Laterolisthesis
+160,7089-F-074Y0,F,74,L3b,2,Right Laterolisthesis
+161,7815-F-066Y0,F,66,L4b,2,Right Laterolisthesis
+162,7874-F-031Y0,F,31,L4b,1,Left Laterolisthesis
+163,7875-F-087Y0,F,87,L2b,1,Left Laterolisthesis
+164,7875-F-087Y0,F,87,L4b,2,Right Laterolisthesis
+165,7940-F-067Y0,F,67,L2b,2,Right Laterolisthesis
+166,7940-F-067Y0,F,67,L4b,1,Left Laterolisthesis
+167,7998-F-085Y0,F,85,L4b,1,Left Laterolisthesis
+168,8006-F-072Y0,F,72,L4b,1,Left Laterolisthesis
+169,8014-F-065Y0,F,65,L3b,2,Right Laterolisthesis
+170,8101-F-062Y0,F,62,L3b,2,Right Laterolisthesis
+171,8156-F-090Y0,F,90,L3b,2,Right Laterolisthesis
+172,8169-M-079Y0,M,79,L1b,2,Right Laterolisthesis
+173,8169-M-079Y0,M,79,L4b,1,Left Laterolisthesis
+174,8264-F-073Y0,F,73,L3b,2,Right Laterolisthesis
+175,8265-M-080Y0,M,80,L2b,2,Right Laterolisthesis
+176,8299-F-074Y0,F,74,L3b,1,Left Laterolisthesis
+177,8353-F-051Y0,F,51,L2b,1,Left Laterolisthesis
+178,8353-F-051Y0,F,51,L4b,2,Right Laterolisthesis
+179,8523-F-070Y0,F,70,L4b,1,Left Laterolisthesis
+180,8623-F-088Y0,F,88,L1b,2,Right Laterolisthesis
+181,0034-F-067Y1,F,67,L4b,3,Anterolisthesis
+182,0054-F-079Y1,F,79,L4b,3,Anterolisthesis
+183,0056-F-069Y1,F,69,L3b,3,Anterolisthesis
+184,0056-F-069Y1,F,69,L4b,3,Anterolisthesis
+185,0113-F-082Y1,F,82,L4b,3,Anterolisthesis
+186,0121-F-072Y1,F,72,L2b,4,Retrolisthesis
+187,0147-F-086Y1,F,86,L4b,3,Anterolisthesis
+188,0158-F-072Y1,F,72,L4b,3,Anterolisthesis
+189,0159-M-062Y1,M,62,L4b,3,Anterolisthesis
+190,0164-F-064Y1,F,64,L3b,3,Anterolisthesis
+191,0167-F-049Y1,F,49,L4b,3,Anterolisthesis
+192,0187-F-067Y1,F,67,L4b,3,Anterolisthesis
+193,0194-F-077Y1,F,77,L4b,3,Anterolisthesis
+194,0201-F-077Y1,F,77,L4b,3,Anterolisthesis
+195,0202-F-068Y1,F,68,L3b,3,Anterolisthesis
+196,0218-M-067Y1,M,67,L5b,3,Anterolisthesis
+197,0219-F-077Y1,F,77,L4b,3,Anterolisthesis
+198,0223-F-063Y1,F,63,L4b,3,Anterolisthesis
+199,0230-F-078Y1,F,78,L3b,4,Retrolisthesis
+200,0234-F-073Y1,F,73,L3b,3,Anterolisthesis
+201,0235-F-073Y1,F,73,L3b,3,Anterolisthesis
+202,0236-M-065Y1,M,65,L3b,3,Anterolisthesis
+203,0242-M-066Y1,M,66,L1b,4,Retrolisthesis
+204,0242-M-066Y1,M,66,L5b,3,Anterolisthesis
+205,0243-M-068Y1,M,68,L5b,3,Anterolisthesis
+206,0245-F-086Y1,F,86,L2b,4,Retrolisthesis
+207,0250-F-069Y1,F,69,L4b,3,Anterolisthesis
+208,0259-F-073Y1,F,73,L5b,3,Anterolisthesis
+209,0262-F-084Y1,F,84,L4b,3,Anterolisthesis
+210,0265-F-081Y1,F,81,L1b,4,Retrolisthesis
+211,0265-F-081Y1,F,81,L5b,3,Anterolisthesis
+212,0277-F-050Y1,F,50,L4b,3,Anterolisthesis
+213,0284-F-061Y1,F,61,L4b,3,Anterolisthesis
+214,0284-F-061Y1,F,61,L5b,3,Anterolisthesis
+215,0285-F-061Y1,F,61,L3b,3,Anterolisthesis
+216,0291-M-073Y1,M,73,L4b,3,Anterolisthesis
+217,0300-M-083Y1,M,83,L4b,3,Anterolisthesis
+218,0306-M-072Y1,M,72,L3b,4,Retrolisthesis
+219,0316-F-074Y1,F,74,L3b,3,Anterolisthesis
+220,0316-F-074Y1,F,74,L4b,3,Anterolisthesis
+221,0332-M-084Y1,M,84,L5b,3,Anterolisthesis
+222,0334-F-058Y1,F,58,L3b,3,Anterolisthesis
+223,0334-F-058Y1,F,58,L4b,3,Anterolisthesis
+224,0342-F-060Y1,F,60,L4b,3,Anterolisthesis
+225,0363-F-062Y1,F,62,L4b,3,Anterolisthesis
+226,0378-F-075Y1,F,75,L5b,3,Anterolisthesis
+227,0395-M-080Y1,M,80,L4b,3,Anterolisthesis
+228,0411-F-066Y1,F,66,L3b,3,Anterolisthesis
+229,0415-F-061Y1,F,61,L3b,3,Anterolisthesis
+230,0420-F-079Y1,F,79,L4b,3,Anterolisthesis
+231,0423-M-065Y1,M,65,L4b,3,Anterolisthesis
+232,0436-F-054Y1,F,54,L4b,3,Anterolisthesis
+233,0437-F-065Y1,F,65,L4b,3,Anterolisthesis
+234,0446-M-060Y1,M,60,L5b,3,Anterolisthesis
+235,0452-M-042Y1,M,42,L4b,3,Anterolisthesis
+236,0453-F-064Y1,F,64,L5b,3,Anterolisthesis
+237,0464-F-074Y1,F,74,L1b,4,Retrolisthesis
+238,0466-F-046Y1,F,46,L3b,3,Anterolisthesis
+239,0469-F-068Y1,F,68,L3b,3,Anterolisthesis
+240,0470-F-065Y1,F,65,L4b,3,Anterolisthesis
+241,0471-M-081Y1,M,81,L4b,4,Retrolisthesis
+242,0472-F-070Y1,F,70,L4b,3,Anterolisthesis
+243,0477-F-075Y1,F,75,L2b,3,Anterolisthesis
+244,0477-F-075Y1,F,75,L3b,3,Anterolisthesis
+245,0485-M-062Y1,M,62,L5b,3,Anterolisthesis
+246,0487-F-047Y1,F,47,L3b,4,Retrolisthesis
+247,0646-F-058Y1,F,58,L4b,3,Anterolisthesis
+248,0689-M-074Y1,M,74,L4b,3,Anterolisthesis
+249,0692-F-075Y1,F,75,L5b,3,Anterolisthesis
+250,0700-F-075Y1,F,75,L4b,3,Anterolisthesis
+251,0701-F-077Y1,F,77,L5b,3,Anterolisthesis
+252,0710-M-059Y1,M,59,L2b,4,Retrolisthesis
+253,0713-F-058Y1,F,58,L4b,3,Anterolisthesis
+254,0723-F-053Y1,F,53,L4b,3,Anterolisthesis
+255,0729-F-052Y1,F,52,L2b,4,Retrolisthesis
+256,0730-F-053Y1,F,53,L4b,3,Anterolisthesis
+257,0744-F-083Y1,F,83,L3b,3,Anterolisthesis
+258,0744-F-083Y1,F,83,L4b,3,Anterolisthesis
+259,0767-F-059Y1,F,59,L4b,3,Anterolisthesis
+260,0781-F-051Y1,F,51,L4b,3,Anterolisthesis
+261,0783-M-065Y1,M,65,L4b,3,Anterolisthesis
+262,0793-F-062Y1,F,62,L4b,3,Anterolisthesis
+263,0806-M-078Y1,M,78,L2b,4,Retrolisthesis
+264,0809-F-056Y1,F,56,L4b,3,Anterolisthesis
+265,0815-M-060Y1,M,60,L2b,4,Retrolisthesis
+266,0831-F-069Y1,F,69,L4b,3,Anterolisthesis
+267,0848-F-072Y1,F,72,L3b,3,Anterolisthesis
+268,0855-M-080Y1,M,80,L4b,3,Anterolisthesis
+269,0864-M-057Y1,M,57,L3b,4,Retrolisthesis
+270,0864-M-057Y1,M,57,L4b,4,Retrolisthesis
+271,0866-F-079Y1,F,79,L4b,3,Anterolisthesis
+272,0871-F-062Y1,F,62,L2b,4,Retrolisthesis
+273,0878-F-076Y1,F,76,L2b,4,Retrolisthesis
+274,0893-F-079Y1,F,79,L5b,3,Anterolisthesis
+275,0899-F-060Y1,F,60,L3b,3,Anterolisthesis
+276,0900-M-071Y1,M,71,L3b,4,Retrolisthesis
+277,0909-M-064Y1,M,64,L2b,3,Anterolisthesis
+278,0913-F-048Y1,F,48,L5b,3,Anterolisthesis
+279,0914-F-045Y1,F,45,L5b,3,Anterolisthesis
+280,0915-M-081Y1,M,81,L4b,4,Retrolisthesis
+281,0925-M-087Y1,M,87,L2b,4,Retrolisthesis
+282,0933-F-065Y1,F,65,L5b,3,Anterolisthesis
+283,0942-F-081Y1,F,81,L4b,3,Anterolisthesis
+284,0962-M-054Y1,M,54,L2b,4,Retrolisthesis
+285,0971-F-057Y1,F,57,L5b,3,Anterolisthesis
+286,0974-F-052Y1,F,52,L3b,3,Anterolisthesis
+287,0996-F-064Y1,F,64,L5b,3,Anterolisthesis
+288,1010-M-042Y1,M,42,L4b,4,Retrolisthesis
+289,1014-F-077Y1,F,77,L4b,3,Anterolisthesis
+290,1016-M-067Y1,M,67,L5b,3,Anterolisthesis
+291,1024-F-074Y1,F,74,L4b,3,Anterolisthesis
+292,1034-F-090Y1,F,90,L3b,4,Retrolisthesis
+293,1039-M-074Y1,M,74,L4b,4,Retrolisthesis
+294,1042-F-062Y1,F,62,L4b,3,Anterolisthesis
+295,1043-F-057Y1,F,57,L4b,3,Anterolisthesis
+296,1063-M-064Y1,M,64,L3b,3,Anterolisthesis
+297,1067-M-061Y1,M,61,L4b,3,Anterolisthesis
+298,1068-F-071Y1,F,71,L5b,3,Anterolisthesis
+299,1071-M-073Y1,M,73,L5b,3,Anterolisthesis
+300,1073-M-072Y1,M,72,L4b,3,Anterolisthesis
+301,1096-F-057Y1,F,57,L4b,3,Anterolisthesis
+302,1098-M-061Y1,M,61,L4b,3,Anterolisthesis
+303,1100-F-084Y1,F,84,L4b,3,Anterolisthesis
+304,1114-F-063Y1,F,63,L4b,3,Anterolisthesis
+305,1138-F-072Y1,F,72,L2b,4,Retrolisthesis
+306,1138-F-072Y1,F,72,L4b,3,Anterolisthesis
+307,1140-F-066Y1,F,66,L4b,3,Anterolisthesis
+308,1144-F-057Y1,F,57,L4b,3,Anterolisthesis
+309,1157-F-071Y1,F,71,L4b,3,Anterolisthesis
+310,1177-F-061Y1,F,61,L4b,3,Anterolisthesis
+311,1193-F-081Y1,F,81,L4b,3,Anterolisthesis
+312,1196-M-073Y1,M,73,L4b,3,Anterolisthesis
+313,1205-F-068Y1,F,68,L4b,3,Anterolisthesis
+314,1214-F-080Y1,F,80,L4b,3,Anterolisthesis
+315,1215-F-068Y1,F,68,L4b,3,Anterolisthesis
+316,1230-F-066Y1,F,66,L2b,4,Retrolisthesis
+317,1230-F-066Y1,F,66,L3b,3,Anterolisthesis
+318,1230-F-066Y1,F,66,L4b,3,Anterolisthesis
+319,1232-F-083Y1,F,83,L4b,3,Anterolisthesis
+320,1254-F-052Y1,F,52,L4b,3,Anterolisthesis
+321,1255-F-069Y1,F,69,L3b,3,Anterolisthesis
+322,1255-F-069Y1,F,69,L4b,3,Anterolisthesis
+323,1256-F-075Y1,F,75,L5b,3,Anterolisthesis
+324,1271-F-062Y1,F,62,L5b,3,Anterolisthesis
+325,1275-M-076Y1,M,76,L1b,4,Retrolisthesis
+326,1282-M-069Y1,M,69,L4b,3,Anterolisthesis
+327,1286-M-057Y1,M,57,L2b,3,Anterolisthesis
+328,1291-F-082Y1,F,82,L2b,4,Retrolisthesis
+329,1298-F-070Y1,F,70,L2b,4,Retrolisthesis
+330,1298-F-070Y1,F,70,L3b,4,Retrolisthesis
+331,1298-F-070Y1,F,70,L4b,4,Retrolisthesis
+332,1314-F-048Y1,F,48,L5b,3,Anterolisthesis
+333,1320-M-063Y1,M,63,L2b,4,Retrolisthesis
+334,1334-F-061Y1,F,61,L3b,3,Anterolisthesis
+335,1355-M-073Y1,M,73,L4b,3,Anterolisthesis
+336,1356-M-078Y1,M,78,L4b,3,Anterolisthesis
+337,1361-F-080Y1,F,80,L3b,3,Anterolisthesis
+338,1366-F-081Y1,F,81,L4b,3,Anterolisthesis
+339,1369-F-084Y1,F,84,L4b,4,Retrolisthesis
+340,1376-M-066Y1,M,66,L4b,3,Anterolisthesis
+341,1391-F-062Y1,F,62,L3b,3,Anterolisthesis
+342,1393-F-068Y1,F,68,L4b,3,Anterolisthesis
+343,1395-F-059Y1,F,59,L4b,3,Anterolisthesis
+344,1399-M-078Y1,M,78,L2b,4,Retrolisthesis
+345,1399-M-078Y1,M,78,L4b,3,Anterolisthesis
+346,1403-F-055Y1,F,55,L5b,3,Anterolisthesis
+347,1410-M-081Y1,M,81,L3b,3,Anterolisthesis
+348,1410-M-081Y1,M,81,L4b,3,Anterolisthesis
+349,1410-M-081Y1,M,81,L5b,3,Anterolisthesis
+350,1415-F-078Y1,F,78,L4b,3,Anterolisthesis
+351,1419-F-064Y1,F,64,L5b,3,Anterolisthesis
+352,1421-M-084Y1,M,84,L2b,4,Retrolisthesis
+353,1421-M-084Y1,M,84,L3b,4,Retrolisthesis
+354,1423-F-080Y1,F,80,L4b,3,Anterolisthesis
+355,1424-F-075Y1,F,75,L4b,4,Retrolisthesis
+356,1428-M-065Y1,M,65,L4b,4,Retrolisthesis
+357,1438-F-081Y1,F,81,L5b,3,Anterolisthesis
+358,1439-M-067Y1,M,67,L5b,4,Retrolisthesis
+359,1459-M-067Y1,M,67,L3b,3,Anterolisthesis
+360,1464-F-064Y1,F,64,L2b,4,Retrolisthesis
+361,1464-F-064Y1,F,64,L4b,3,Anterolisthesis
+362,1485-F-071Y1,F,71,L5b,3,Anterolisthesis
+363,1499-F-073Y1,F,73,L3b,3,Anterolisthesis
+364,1503-F-071Y1,F,71,L3b,3,Anterolisthesis
+365,1528-F-068Y1,F,68,L4b,3,Anterolisthesis
+366,1530-M-060Y1,M,60,L5b,3,Anterolisthesis
+367,1534-F-075Y1,F,75,L3b,3,Anterolisthesis
+368,1542-F-063Y1,F,63,L3b,3,Anterolisthesis
+369,1561-F-059Y1,F,59,L2b,4,Retrolisthesis
+370,1561-F-059Y1,F,59,L3b,4,Retrolisthesis
+371,1579-F-072Y1,F,72,L4b,3,Anterolisthesis
+372,1591-F-058Y1,F,58,L5b,3,Anterolisthesis
+373,1592-M-049Y1,M,49,L5b,3,Anterolisthesis
+374,1597-M-077Y1,M,77,L4b,4,Retrolisthesis
+375,1597-M-077Y1,M,77,L5b,3,Anterolisthesis
+376,1598-F-057Y1,F,57,L4b,3,Anterolisthesis
+377,1600-M-060Y1,M,60,L3b,4,Retrolisthesis
+378,1607-F-066Y1,F,66,L2b,4,Retrolisthesis
+379,1615-M-073Y1,M,73,L3b,4,Retrolisthesis
+380,1620-F-067Y1,F,67,L4b,3,Anterolisthesis
+381,1623-F-069Y1,F,69,L4b,3,Anterolisthesis
+382,1628-F-083Y1,F,83,L4b,3,Anterolisthesis
+383,1636-M-065Y1,M,65,L4b,3,Anterolisthesis
+384,1661-F-061Y1,F,61,L4b,3,Anterolisthesis
+385,1664-M-058Y1,M,58,L3b,3,Anterolisthesis
+386,1664-M-058Y1,M,58,L4b,4,Retrolisthesis
+387,1667-F-065Y1,F,65,L3b,3,Anterolisthesis
+388,1709-M-085Y1,M,85,L3b,4,Retrolisthesis
+389,1718-F-068Y1,F,68,L3b,4,Retrolisthesis
+390,1728-F-073Y1,F,73,L2b,4,Retrolisthesis
+391,1728-F-073Y1,F,73,L4b,3,Anterolisthesis
+392,1729-F-063Y1,F,63,L5b,3,Anterolisthesis
+393,1736-F-058Y1,F,58,L4b,3,Anterolisthesis
+394,1762-F-058Y1,F,58,L2b,3,Anterolisthesis
+395,1762-F-058Y1,F,58,L4b,3,Anterolisthesis
+396,1766-F-072Y1,F,72,L4b,3,Anterolisthesis
+397,1772-M-072Y1,M,72,L4b,3,Anterolisthesis
+398,1777-F-076Y1,F,76,L3b,3,Anterolisthesis
+399,1785-F-079Y1,F,79,L4b,3,Anterolisthesis
+400,1786-M-053Y1,M,53,L2b,4,Retrolisthesis
+401,1786-M-053Y1,M,53,L3b,4,Retrolisthesis
+402,1786-M-053Y1,M,53,L4b,3,Anterolisthesis
+403,1786-M-053Y1,M,53,L5b,3,Anterolisthesis
+404,1814-M-077Y1,M,77,L4b,3,Anterolisthesis
+405,1817-F-064Y1,F,64,L4b,3,Anterolisthesis
+406,1820-F-061Y1,F,61,L4b,3,Anterolisthesis
+407,1828-M-070Y1,M,70,L4b,3,Anterolisthesis
+408,1860-F-073Y1,F,73,L3b,3,Anterolisthesis
+409,1866-M-068Y1,M,68,L4b,4,Retrolisthesis
+410,1875-F-072Y1,F,72,L4b,3,Anterolisthesis
+411,1878-F-063Y1,F,63,L2b,4,Retrolisthesis
+412,1878-F-063Y1,F,63,L4b,3,Anterolisthesis
+413,1887-M-072Y1,M,72,L2b,4,Retrolisthesis
+414,1887-M-072Y1,M,72,L3b,4,Retrolisthesis
+415,1910-F-071Y1,F,71,L4b,3,Anterolisthesis
+416,1936-F-076Y1,F,76,L4b,3,Anterolisthesis
+417,1937-M-064Y1,M,64,L5b,3,Anterolisthesis
+418,1956-F-056Y1,F,56,L5b,3,Anterolisthesis
+419,1963-F-073Y1,F,73,L4b,3,Anterolisthesis
+420,1969-F-057Y1,F,57,L4b,3,Anterolisthesis
+421,1970-F-055Y1,F,55,L4b,3,Anterolisthesis
+422,1985-M-072Y1,M,72,L1b,4,Retrolisthesis
+423,1986-F-066Y1,F,66,L4b,3,Anterolisthesis
+424,1991-F-064Y1,F,64,L2b,4,Retrolisthesis
+425,1991-F-064Y1,F,64,L3b,4,Retrolisthesis
+426,2024-F-079Y1,F,79,L4b,3,Anterolisthesis
+427,2028-M-072Y1,M,72,L3b,4,Retrolisthesis
+428,2031-F-081Y1,F,81,L2b,4,Retrolisthesis
+429,2035-F-057Y1,F,57,L5b,3,Anterolisthesis
+430,2036-F-057Y1,F,57,L5b,3,Anterolisthesis
+431,2044-M-074Y1,M,74,L2b,4,Retrolisthesis
+432,2044-M-074Y1,M,74,L3b,4,Retrolisthesis
+433,2044-M-074Y1,M,74,L4b,3,Anterolisthesis
+434,2056-F-074Y1,F,74,L2b,4,Retrolisthesis
+435,2059-F-069Y1,F,69,L3b,3,Anterolisthesis
+436,2067-F-069Y1,F,69,L4b,3,Anterolisthesis
+437,2070-F-058Y1,F,58,L4b,3,Anterolisthesis
+438,2077-F-056Y1,F,56,L2b,4,Retrolisthesis
+439,2078-F-059Y1,F,59,L4b,3,Anterolisthesis
+440,2097-F-083Y1,F,83,L4b,3,Anterolisthesis
+441,2103-F-062Y1,F,62,L5b,3,Anterolisthesis
+442,2115-F-051Y1,F,51,L4b,3,Anterolisthesis
+443,2120-F-065Y1,F,65,L2b,4,Retrolisthesis
+444,2120-F-065Y1,F,65,L3b,4,Retrolisthesis
+445,2122-F-061Y1,F,61,L4b,3,Anterolisthesis
+446,2133-F-084Y1,F,84,L2b,4,Retrolisthesis
+447,2133-F-084Y1,F,84,L5b,3,Anterolisthesis
+448,2143-F-056Y1,F,56,L4b,3,Anterolisthesis
+449,2144-F-056Y1,F,56,L4b,3,Anterolisthesis
+450,2150-M-071Y1,M,71,L4b,3,Anterolisthesis
+451,2153-F-058Y1,F,58,L4b,3,Anterolisthesis
+452,2157-M-071Y1,M,71,L4b,3,Anterolisthesis
+453,2169-F-047Y1,F,47,L4b,3,Anterolisthesis
+454,2170-F-059Y1,F,59,L5b,3,Anterolisthesis
+455,2179-M-084Y1,M,84,L5b,3,Anterolisthesis
+456,2189-F-074Y1,F,74,L5b,3,Anterolisthesis
+457,2191-F-064Y1,F,64,L3b,3,Anterolisthesis
+458,2198-F-053Y1,F,53,L3b,4,Retrolisthesis
+459,2199-F-077Y1,F,77,L4b,3,Anterolisthesis
+460,2209-F-066Y1,F,66,L3b,3,Anterolisthesis
+461,2221-M-049Y1,M,49,L4b,4,Retrolisthesis
+462,2222-M-073Y1,M,73,L2b,4,Retrolisthesis
+463,2222-M-073Y1,M,73,L3b,4,Retrolisthesis
+464,2229-F-061Y1,F,61,L4b,3,Anterolisthesis
+465,2250-F-067Y1,F,67,L4b,3,Anterolisthesis
+466,2255-F-068Y1,F,68,L5b,3,Anterolisthesis
+467,2261-M-074Y1,M,74,L4b,3,Anterolisthesis
+468,2267-M-085Y1,M,85,L3b,3,Anterolisthesis
+469,2275-F-080Y1,F,80,L3b,3,Anterolisthesis
+470,2281-M-082Y1,M,82,L5b,3,Anterolisthesis
+471,2290-F-078Y1,F,78,L2b,4,Retrolisthesis
+472,2292-M-072Y1,M,72,L3b,4,Retrolisthesis
+473,2292-M-072Y1,M,72,L4b,4,Retrolisthesis
+474,2300-F-068Y1,F,68,L3b,3,Anterolisthesis
+475,2308-F-068Y1,F,68,L5b,3,Anterolisthesis
+476,2312-F-057Y1,F,57,L5b,4,Retrolisthesis
+477,2318-M-086Y1,M,86,L5b,3,Anterolisthesis
+478,2320-M-081Y1,M,81,L4b,3,Anterolisthesis
+479,2323-F-069Y1,F,69,L3b,3,Anterolisthesis
+480,2323-F-069Y1,F,69,L4b,4,Retrolisthesis
+481,2323-F-069Y1,F,69,L5b,4,Retrolisthesis
+482,2337-F-056Y1,F,56,L4b,3,Anterolisthesis
+483,2338-M-020Y1,M,20,L5b,3,Anterolisthesis
+484,2343-F-075Y1,F,75,L5b,3,Anterolisthesis
+485,2348-F-057Y1,F,57,L4b,3,Anterolisthesis
+486,2362-F-055Y1,F,55,L3b,3,Anterolisthesis
+487,2362-F-055Y1,F,55,L4b,3,Anterolisthesis
+488,2367-F-061Y1,F,61,L3b,4,Retrolisthesis
+489,2367-F-061Y1,F,61,L4b,4,Retrolisthesis
+490,2368-M-049Y1,M,49,L5b,3,Anterolisthesis
+491,2369-M-059Y1,M,59,L1b,4,Retrolisthesis
+492,2369-M-059Y1,M,59,L4b,4,Retrolisthesis
+493,2377-M-071Y1,M,71,L3b,4,Retrolisthesis
+494,2377-M-071Y1,M,71,L4b,4,Retrolisthesis
+495,2383-M-050Y1,M,50,L4b,4,Retrolisthesis
+496,2394-F-051Y1,F,51,L5b,4,Retrolisthesis
+497,2396-F-088Y1,F,88,L3b,3,Anterolisthesis
+498,2400-M-071Y1,M,71,L4b,4,Retrolisthesis
+499,2400-M-071Y1,M,71,L5b,4,Retrolisthesis
+500,2401-F-087Y1,F,87,L5b,4,Retrolisthesis
+501,2406-F-067Y1,F,67,L4b,3,Anterolisthesis
+502,2408-M-039Y1,M,39,L2b,4,Retrolisthesis
+503,2408-M-039Y1,M,39,L4b,4,Retrolisthesis
+504,2419-M-075Y1,M,75,L5b,3,Anterolisthesis
+505,2423-M-055Y1,M,55,L3b,3,Anterolisthesis
+506,2426-F-052Y1,F,52,L4b,3,Anterolisthesis
+507,2428-M-085Y1,M,85,L2b,4,Retrolisthesis
+508,2432-M-052Y1,M,52,L4b,3,Anterolisthesis
+509,2434-F-069Y1,F,69,L4b,3,Anterolisthesis
+510,2440-M-054Y1,M,54,L4b,3,Anterolisthesis
+511,2440-M-054Y1,M,54,L5b,3,Anterolisthesis
+512,2457-F-050Y1,F,50,L3b,3,Anterolisthesis
+513,2463-M-023Y1,M,23,L4b,4,Retrolisthesis
+514,2463-M-023Y1,M,23,L5b,3,Anterolisthesis
+515,2471-M-069Y1,M,69,L2b,4,Retrolisthesis
+516,2474-F-052Y1,F,52,L4b,3,Anterolisthesis
+517,2476-M-037Y1,M,37,L5b,3,Anterolisthesis
+518,2490-F-068Y1,F,68,L4b,3,Anterolisthesis
+519,2491-F-071Y1,F,71,L4b,3,Anterolisthesis
+520,2507-F-077Y1,F,77,L2b,4,Retrolisthesis
+521,2507-F-077Y1,F,77,L4b,3,Anterolisthesis
+522,2511-M-058Y1,M,58,L5b,3,Anterolisthesis
+523,2536-F-055Y1,F,55,L5b,3,Anterolisthesis
+524,2540-F-059Y1,F,59,L5b,3,Anterolisthesis
+525,2546-F-046Y1,F,46,L2b,4,Retrolisthesis
+526,2546-F-046Y1,F,46,L3b,4,Retrolisthesis
+527,2547-F-051Y1,F,51,L4b,4,Retrolisthesis
+528,2552-M-057Y1,M,57,L3b,4,Retrolisthesis
+529,2552-M-057Y1,M,57,L4b,4,Retrolisthesis
+530,2552-M-057Y1,M,57,L5b,4,Retrolisthesis
+531,2569-M-069Y1,M,69,L5b,3,Anterolisthesis
+532,2572-F-075Y1,F,75,L3b,4,Retrolisthesis
+533,2572-F-075Y1,F,75,L4b,3,Anterolisthesis
+534,2574-F-067Y1,F,67,L4b,3,Anterolisthesis
+535,2583-F-028Y1,F,28,L3b,4,Retrolisthesis
+536,2584-F-070Y1,F,70,L4b,3,Anterolisthesis
+537,2601-M-057Y1,M,57,L4b,3,Anterolisthesis
+538,2601-M-057Y1,M,57,L5b,3,Anterolisthesis
+539,2605-F-067Y1,F,67,L4b,3,Anterolisthesis
+540,2606-M-076Y1,M,76,L4b,3,Anterolisthesis
+541,2607-F-076Y1,F,76,L5b,3,Anterolisthesis
+542,2609-M-063Y1,M,63,L2b,4,Retrolisthesis
+543,2609-M-063Y1,M,63,L5b,3,Anterolisthesis
+544,2623-M-063Y1,M,63,L3b,3,Anterolisthesis
+545,2734-M-069Y1,M,69,L2b,4,Retrolisthesis
+546,2778-F-069Y1,F,69,L4b,3,Anterolisthesis
+547,2779-M-067Y1,M,67,L5b,3,Anterolisthesis
+548,2785-F-065Y1,F,65,L3b,3,Anterolisthesis
+549,2797-M-091Y1,M,91,L2b,4,Retrolisthesis
+550,2797-M-091Y1,M,91,L4b,3,Anterolisthesis
+551,2801-F-074Y1,F,74,L4b,3,Anterolisthesis
+552,2803-M-083Y1,M,83,L4b,3,Anterolisthesis
+553,2810-F-056Y1,F,56,L5b,3,Anterolisthesis
+554,2811-M-055Y1,M,55,L4b,3,Anterolisthesis
+555,2815-F-072Y1,F,72,L4b,3,Anterolisthesis
+556,2816-F-029Y1,F,29,L5b,3,Anterolisthesis
+557,2822-F-055Y1,F,55,L4b,3,Anterolisthesis
+558,2840-F-046Y1,F,46,L4b,3,Anterolisthesis
+559,2841-F-078Y1,F,78,L3b,3,Anterolisthesis
+560,2850-F-052Y1,F,52,L4b,3,Anterolisthesis
+561,2860-F-063Y1,F,63,L3b,4,Retrolisthesis
+562,2863-M-082Y1,M,82,L5b,3,Anterolisthesis
+563,2871-F-080Y1,F,80,L4b,3,Anterolisthesis
+564,2871-F-080Y1,F,80,L5b,3,Anterolisthesis
+565,2875-F-086Y1,F,86,L4b,4,Retrolisthesis
+566,2884-M-070Y1,M,70,L4b,4,Retrolisthesis
+567,2885-F-073Y1,F,73,L3b,4,Retrolisthesis
+568,2888-F-073Y1,F,73,L5b,3,Anterolisthesis
+569,2890-F-075Y1,F,75,L4b,3,Anterolisthesis
+570,2892-F-056Y1,F,56,L4b,4,Retrolisthesis
+571,2904-F-081Y1,F,81,L4b,3,Anterolisthesis
+572,2908-M-074Y1,M,74,L3b,4,Retrolisthesis
+573,2910-F-073Y1,F,73,L5b,3,Anterolisthesis
+574,2917-F-062Y1,F,62,L4b,3,Anterolisthesis
+575,2917-F-062Y1,F,62,L5b,4,Retrolisthesis
+576,2920-F-057Y1,F,57,L4b,3,Anterolisthesis
+577,2932-F-065Y1,F,65,L3b,3,Anterolisthesis
+578,2938-F-066Y1,F,66,L4b,3,Anterolisthesis
+579,2945-M-079Y1,M,79,L3b,4,Retrolisthesis
+580,2950-M-067Y1,M,67,L3b,3,Anterolisthesis
+581,2960-F-023Y1,F,23,L4b,4,Retrolisthesis
+582,2971-F-069Y1,F,69,L2b,4,Retrolisthesis
+583,2977-F-062Y1,F,62,L4b,3,Anterolisthesis
+584,2981-F-062Y1,F,62,L4b,3,Anterolisthesis
+585,2984-M-070Y1,M,70,L3b,3,Anterolisthesis
+586,2990-F-074Y1,F,74,L3b,3,Anterolisthesis
+587,2990-F-074Y1,F,74,L5b,3,Anterolisthesis
+588,2994-F-085Y1,F,85,L3b,3,Anterolisthesis
+589,2996-F-058Y1,F,58,L1b,4,Retrolisthesis
+590,3002-F-086Y1,F,86,L3b,3,Anterolisthesis
+591,3005-F-085Y1,F,85,L4b,3,Anterolisthesis
+592,3018-F-055Y1,F,55,L4b,4,Retrolisthesis
+593,3018-F-055Y1,F,55,L5b,3,Anterolisthesis
+594,3019-F-066Y1,F,66,L3b,3,Anterolisthesis
+595,3022-M-077Y1,M,77,L3b,4,Retrolisthesis
+596,3052-F-066Y1,F,66,L4b,4,Retrolisthesis
+597,3064-F-071Y1,F,71,L3b,3,Anterolisthesis
+598,3070-F-088Y1,F,88,L4b,3,Anterolisthesis
+599,3073-M-073Y1,M,73,L2b,4,Retrolisthesis
+600,3075-M-074Y1,M,74,L3b,4,Retrolisthesis
+601,3075-M-074Y1,M,74,L4b,3,Anterolisthesis
+602,3082-F-065Y1,F,65,L3b,3,Anterolisthesis
+603,3082-F-065Y1,F,65,L4b,3,Anterolisthesis
+604,3083-F-062Y1,F,62,L4b,3,Anterolisthesis
+605,3084-F-054Y1,F,54,L5b,3,Anterolisthesis
+606,3088-M-067Y1,M,67,L4b,3,Anterolisthesis
+607,3093-F-048Y1,F,48,L4b,3,Anterolisthesis
+608,3125-M-079Y1,M,79,L4b,4,Retrolisthesis
+609,3131-F-063Y1,F,63,L3b,3,Anterolisthesis
+610,3134-F-078Y1,F,78,L3b,3,Anterolisthesis
+611,3143-F-053Y1,F,53,L4b,3,Anterolisthesis
+612,3152-F-069Y1,F,69,L5b,3,Anterolisthesis
+613,3162-F-068Y1,F,68,L2b,4,Retrolisthesis
+614,3166-F-069Y1,F,69,L4b,3,Anterolisthesis
+615,3167-F-073Y1,F,73,L4b,3,Anterolisthesis
+616,3169-M-069Y1,M,69,L2b,4,Retrolisthesis
+617,3169-M-069Y1,M,69,L4b,3,Anterolisthesis
+618,3173-F-064Y1,F,64,L3b,4,Retrolisthesis
+619,3177-F-076Y1,F,76,L2b,4,Retrolisthesis
+620,3184-M-078Y1,M,78,L4b,3,Anterolisthesis
+621,3186-F-089Y1,F,89,L5b,3,Anterolisthesis
+622,3187-M-078Y1,M,78,L4b,3,Anterolisthesis
+623,3188-F-080Y1,F,80,L4b,3,Anterolisthesis
+624,3192-F-069Y1,F,69,L3b,3,Anterolisthesis
+625,3205-F-084Y1,F,84,L4b,3,Anterolisthesis
+626,3214-F-069Y1,F,69,L4b,3,Anterolisthesis
+627,3216-F-056Y1,F,56,L3b,3,Anterolisthesis
+628,3217-F-078Y1,F,78,L2b,4,Retrolisthesis
+629,3218-F-048Y1,F,48,L2b,4,Retrolisthesis
+630,3219-F-075Y1,F,75,L4b,3,Anterolisthesis
+631,3228-M-046Y1,M,46,L5b,3,Anterolisthesis
+632,3230-F-077Y1,F,77,L2b,4,Retrolisthesis
+633,3230-F-077Y1,F,77,L4b,3,Anterolisthesis
+634,3231-M-068Y1,M,68,L3b,3,Anterolisthesis
+635,3232-F-059Y1,F,59,L4b,3,Anterolisthesis
+636,3235-F-066Y1,F,66,L2b,4,Retrolisthesis
+637,3243-F-066Y1,F,66,L3b,4,Retrolisthesis
+638,3247-F-074Y1,F,74,L3b,3,Anterolisthesis
+639,3261-F-062Y1,F,62,L4b,4,Retrolisthesis
+640,3270-F-052Y1,F,52,L4b,3,Anterolisthesis
+641,3275-F-057Y1,F,57,L4b,3,Anterolisthesis
+642,3276-F-072Y1,F,72,L5b,3,Anterolisthesis
+643,3278-F-054Y1,F,54,L4b,3,Anterolisthesis
+644,3279-F-078Y1,F,78,L4b,3,Anterolisthesis
+645,3282-F-063Y1,F,63,L4b,4,Retrolisthesis
+646,3287-M-074Y1,M,74,L3b,3,Anterolisthesis
+647,3287-M-074Y1,M,74,L4b,3,Anterolisthesis
+648,3318-M-079Y1,M,79,L1b,4,Retrolisthesis
+649,3318-M-079Y1,M,79,L2b,4,Retrolisthesis
+650,3318-M-079Y1,M,79,L4b,3,Anterolisthesis
+651,3319-F-061Y1,F,61,L2b,4,Retrolisthesis
+652,3319-F-061Y1,F,61,L4b,3,Anterolisthesis
+653,3321-M-077Y1,M,77,L4b,4,Retrolisthesis
+654,3322-F-073Y1,F,73,L5b,3,Anterolisthesis
+655,3333-M-059Y1,M,59,L5b,4,Retrolisthesis
+656,3341-M-085Y1,M,85,L4b,3,Anterolisthesis
+657,3351-M-070Y1,M,70,L2b,4,Retrolisthesis
+658,3351-M-070Y1,M,70,L3b,4,Retrolisthesis
+659,3351-M-070Y1,M,70,L4b,3,Anterolisthesis
+660,3353-F-050Y1,F,50,L4b,3,Anterolisthesis
+661,3357-F-070Y1,F,70,L4b,4,Retrolisthesis
+662,3369-F-064Y1,F,64,L4b,3,Anterolisthesis
+663,3378-M-079Y1,M,79,L3b,3,Anterolisthesis
+664,3404-F-084Y1,F,84,L4b,3,Anterolisthesis
+665,3406-M-063Y1,M,63,L5b,4,Retrolisthesis
+666,3408-F-052Y1,F,52,L4b,3,Anterolisthesis
+667,3412-F-057Y1,F,57,L1b,4,Retrolisthesis
+668,3412-F-057Y1,F,57,L2b,4,Retrolisthesis
+669,3412-F-057Y1,F,57,L3b,4,Retrolisthesis
+670,3412-F-057Y1,F,57,L4b,3,Anterolisthesis
+671,3415-F-051Y1,F,51,L4b,3,Anterolisthesis
+672,3418-F-060Y1,F,60,L3b,3,Anterolisthesis
+673,3423-M-074Y1,M,74,L2b,4,Retrolisthesis
+674,3428-F-063Y1,F,63,L2b,4,Retrolisthesis
+675,3428-F-063Y1,F,63,L4b,3,Anterolisthesis
+676,3443-F-078Y1,F,78,L3b,4,Retrolisthesis
+677,3457-M-066Y1,M,66,L5b,3,Anterolisthesis
+678,3458-F-067Y1,F,67,L4b,3,Anterolisthesis
+679,3462-F-036Y1,F,36,L3b,4,Retrolisthesis
+680,3463-F-065Y1,F,65,L1b,4,Retrolisthesis
+681,3463-F-065Y1,F,65,L3b,3,Anterolisthesis
+682,3467-F-075Y1,F,75,L4b,3,Anterolisthesis
+683,3469-F-071Y1,F,71,L5b,3,Anterolisthesis
+684,3479-F-063Y1,F,63,L4b,3,Anterolisthesis
+685,3493-M-075Y1,M,75,L4b,4,Retrolisthesis
+686,3510-F-078Y1,F,78,L5b,3,Anterolisthesis
+687,3513-F-050Y1,F,50,L4b,3,Anterolisthesis
+688,3516-M-082Y1,M,82,L3b,4,Retrolisthesis
+689,3540-F-059Y1,F,59,L3b,3,Anterolisthesis
+690,3547-F-071Y1,F,71,L4b,3,Anterolisthesis
+691,3553-F-070Y1,F,70,L3b,4,Retrolisthesis
+692,3553-F-070Y1,F,70,L4b,3,Anterolisthesis
+693,3559-M-066Y1,M,66,L5b,3,Anterolisthesis
+694,3561-F-068Y1,F,68,L4b,3,Anterolisthesis
+695,3565-F-069Y1,F,69,L2b,4,Retrolisthesis
+696,3569-M-062Y1,M,62,L3b,3,Anterolisthesis
+697,3575-M-070Y1,M,70,L3b,4,Retrolisthesis
+698,3579-F-074Y1,F,74,L4b,3,Anterolisthesis
+699,3590-F-069Y1,F,69,L4b,3,Anterolisthesis
+700,3593-F-051Y1,F,51,L3b,3,Anterolisthesis
+701,3596-F-082Y1,F,82,L2b,4,Retrolisthesis
+702,3602-F-059Y1,F,59,L4b,3,Anterolisthesis
+703,3603-F-079Y1,F,79,L5b,4,Retrolisthesis
+704,3630-F-065Y1,F,65,L1b,4,Retrolisthesis
+705,3633-F-056Y1,F,56,L3b,3,Anterolisthesis
+706,3636-F-067Y1,F,67,L4b,3,Anterolisthesis
+707,3652-M-063Y1,M,63,L5b,3,Anterolisthesis
+708,3661-M-054Y1,M,54,L2b,4,Retrolisthesis
+709,3661-M-054Y1,M,54,L4b,3,Anterolisthesis
+710,3662-M-062Y1,M,62,L4b,4,Retrolisthesis
+711,3662-M-062Y1,M,62,L5b,4,Retrolisthesis
+712,3664-M-069Y1,M,69,L4b,3,Anterolisthesis
+713,3666-M-023Y1,M,23,L4b,4,Retrolisthesis
+714,3666-M-023Y1,M,23,L5b,4,Retrolisthesis
+715,3674-F-059Y1,F,59,L4b,3,Anterolisthesis
+716,3683-F-061Y1,F,61,L3b,3,Anterolisthesis
+717,3686-F-095Y1,F,95,L4b,3,Anterolisthesis
+718,3689-F-081Y1,F,81,L5b,3,Anterolisthesis
+719,3693-M-063Y1,M,63,L4b,3,Anterolisthesis
+720,3697-F-071Y1,F,71,L3b,3,Anterolisthesis
+721,3697-F-071Y1,F,71,L4b,3,Anterolisthesis
+722,3702-F-076Y1,F,76,L3b,3,Anterolisthesis
+723,3702-F-076Y1,F,76,L5b,3,Anterolisthesis
+724,3707-M-071Y1,M,71,L2b,4,Retrolisthesis
+725,3707-M-071Y1,M,71,L4b,3,Anterolisthesis
+726,3707-M-071Y1,M,71,L5b,4,Retrolisthesis
+727,3724-M-087Y1,M,87,L4b,3,Anterolisthesis
+728,3729-F-067Y1,F,67,L3b,3,Anterolisthesis
+729,3729-F-067Y1,F,67,L4b,3,Anterolisthesis
+730,3745-M-082Y1,M,82,L3b,3,Anterolisthesis
+731,3747-F-052Y1,F,52,L3b,4,Retrolisthesis
+732,3773-F-015Y1,F,15,L5b,3,Anterolisthesis
+733,3775-M-052Y1,M,52,L4b,3,Anterolisthesis
+734,3799-M-067Y1,M,67,L1b,4,Retrolisthesis
+735,3799-M-067Y1,M,67,L2b,4,Retrolisthesis
+736,3802-M-093Y1,M,93,L2b,4,Retrolisthesis
+737,3808-F-065Y1,F,65,L4b,4,Retrolisthesis
+738,3808-F-065Y1,F,65,L5b,3,Anterolisthesis
+739,3831-F-090Y1,F,90,L4b,4,Retrolisthesis
+740,3834-F-091Y1,F,91,L5b,3,Anterolisthesis
+741,3836-F-020Y1,F,20,L3b,4,Retrolisthesis
+742,3838-F-069Y1,F,69,L4b,3,Anterolisthesis
+743,3856-M-060Y1,M,60,L5b,3,Anterolisthesis
+744,3865-F-070Y1,F,70,L3b,3,Anterolisthesis
+745,3870-F-060Y1,F,60,L5b,3,Anterolisthesis
+746,3874-F-044Y1,F,44,L5b,4,Retrolisthesis
+747,3899-F-072Y1,F,72,L5b,4,Retrolisthesis
+748,3906-M-076Y1,M,76,L5b,4,Retrolisthesis
+749,3909-F-064Y1,F,64,L4b,3,Anterolisthesis
+750,3917-M-066Y1,M,66,L4b,3,Anterolisthesis
+751,3928-F-051Y1,F,51,L3b,3,Anterolisthesis
+752,3957-F-055Y1,F,55,L4b,4,Retrolisthesis
+753,3959-M-035Y1,M,35,L4b,3,Anterolisthesis
+754,3974-F-054Y1,F,54,L4b,3,Anterolisthesis
+755,3977-F-066Y1,F,66,L3b,3,Anterolisthesis
+756,3979-F-073Y1,F,73,L4b,3,Anterolisthesis
+757,3992-F-072Y1,F,72,L4b,3,Anterolisthesis
+758,4001-F-063Y1,F,63,L3b,3,Anterolisthesis
+759,4001-F-063Y1,F,63,L5b,3,Anterolisthesis
+760,4009-M-075Y1,M,75,L4b,3,Anterolisthesis
+761,4013-F-066Y1,F,66,L4b,3,Anterolisthesis
+762,4014-F-085Y1,F,85,L1b,4,Retrolisthesis
+763,4028-F-060Y1,F,60,L4b,3,Anterolisthesis
+764,4030-F-057Y1,F,57,L4b,3,Anterolisthesis
+765,4031-F-067Y1,F,67,L3b,3,Anterolisthesis
+766,4032-M-066Y1,M,66,L4b,3,Anterolisthesis
+767,4043-F-067Y1,F,67,L3b,3,Anterolisthesis
+768,4050-M-069Y1,M,69,L3b,4,Retrolisthesis
+769,4050-M-069Y1,M,69,L4b,4,Retrolisthesis
+770,4052-F-077Y1,F,77,L5b,3,Anterolisthesis
+771,4057-F-093Y1,F,93,L2b,3,Anterolisthesis
+772,4067-M-069Y1,M,69,L3b,3,Anterolisthesis
+773,4085-M-094Y1,M,94,L3b,4,Retrolisthesis
+774,4087-F-054Y1,F,54,L3b,3,Anterolisthesis
+775,4087-F-054Y1,F,54,L5b,4,Retrolisthesis
+776,4089-F-083Y1,F,83,L3b,3,Anterolisthesis
+777,4093-F-083Y1,F,83,L4b,3,Anterolisthesis
+778,4094-F-071Y1,F,71,L4b,3,Anterolisthesis
+779,4097-F-061Y1,F,61,L4b,3,Anterolisthesis
+780,4097-F-061Y1,F,61,L5b,3,Anterolisthesis
+781,4105-F-069Y1,F,69,L3b,3,Anterolisthesis
+782,4106-F-063Y1,F,63,L3b,4,Retrolisthesis
+783,4108-M-070Y1,M,70,L1b,3,Anterolisthesis
+784,4116-F-055Y1,F,55,L4b,3,Anterolisthesis
+785,4119-F-056Y1,F,56,L3b,3,Anterolisthesis
+786,4137-M-043Y1,M,43,L4b,3,Anterolisthesis
+787,4170-F-068Y1,F,68,L5b,3,Anterolisthesis
+788,4174-F-069Y1,F,69,L4b,3,Anterolisthesis
+789,4175-F-066Y1,F,66,L4b,3,Anterolisthesis
+790,4188-F-062Y1,F,62,L4b,3,Anterolisthesis
+791,4190-F-037Y1,F,37,L5b,3,Anterolisthesis
+792,4212-F-058Y1,F,58,L4b,3,Anterolisthesis
+793,4225-F-066Y1,F,66,L4b,3,Anterolisthesis
+794,4234-F-073Y1,F,73,L5b,3,Anterolisthesis
+795,4262-F-058Y1,F,58,L4b,3,Anterolisthesis
+796,4274-F-066Y1,F,66,L4b,3,Anterolisthesis
+797,4299-F-073Y1,F,73,L5b,3,Anterolisthesis
+798,4308-F-040Y1,F,40,L5b,3,Anterolisthesis
+799,4321-F-081Y1,F,81,L3b,3,Anterolisthesis
+800,4321-F-081Y1,F,81,L4b,3,Anterolisthesis
+801,4367-M-049Y1,M,49,L3b,3,Anterolisthesis
+802,4367-M-049Y1,M,49,L4b,3,Anterolisthesis
+803,4372-F-063Y1,F,63,L3b,3,Anterolisthesis
+804,4373-M-081Y1,M,81,L5b,3,Anterolisthesis
+805,4381-M-080Y1,M,80,L5b,3,Anterolisthesis
+806,4383-M-066Y1,M,66,L2b,4,Retrolisthesis
+807,4383-M-066Y1,M,66,L4b,3,Anterolisthesis
+808,4405-M-074Y1,M,74,L2b,4,Retrolisthesis
+809,4426-M-048Y1,M,48,L4b,3,Anterolisthesis
+810,4427-M-061Y1,M,61,L5b,3,Anterolisthesis
+811,4433-F-065Y1,F,65,L3b,3,Anterolisthesis
+812,4437-F-066Y1,F,66,L4b,3,Anterolisthesis
+813,4439-M-061Y1,M,61,L2b,4,Retrolisthesis
+814,4439-M-061Y1,M,61,L4b,3,Anterolisthesis
+815,4446-F-057Y1,F,57,L3b,3,Anterolisthesis
+816,4603-F-078Y1,F,78,L4b,3,Anterolisthesis
+817,4606-M-021Y1,M,21,L5b,3,Anterolisthesis
+818,4608-F-079Y1,F,79,L5b,4,Retrolisthesis
+819,4622-F-053Y1,F,53,L4b,3,Anterolisthesis
+820,4625-F-070Y1,F,70,L4b,3,Anterolisthesis
+821,4662-F-044Y1,F,44,L5b,3,Anterolisthesis
+822,4666-F-043Y1,F,43,L4b,3,Anterolisthesis
+823,4671-F-069Y1,F,69,L2b,4,Retrolisthesis
+824,4673-F-051Y1,F,51,L3b,3,Anterolisthesis
+825,4688-M-067Y1,M,67,L1b,4,Retrolisthesis
+826,4688-M-067Y1,M,67,L2b,4,Retrolisthesis
+827,4688-M-067Y1,M,67,L3b,4,Retrolisthesis
+828,4698-M-056Y1,M,56,L4b,3,Anterolisthesis
+829,4700-F-063Y1,F,63,L5b,3,Anterolisthesis
+830,4702-M-070Y1,M,70,L5b,4,Retrolisthesis
+831,4902-F-053Y1,F,53,L4b,3,Anterolisthesis
+832,4906-F-072Y1,F,72,L3b,3,Anterolisthesis
+833,4908-M-065Y1,M,65,L4b,3,Anterolisthesis
+834,4938-M-074Y1,M,74,L4b,4,Retrolisthesis
+835,4941-F-067Y1,F,67,L4b,3,Anterolisthesis
+836,4945-M-018Y1,M,18,L4b,4,Retrolisthesis
+837,4946-M-071Y1,M,71,L4b,3,Anterolisthesis
+838,4950-F-061Y1,F,61,L4b,3,Anterolisthesis
+839,4953-F-066Y1,F,66,L4b,3,Anterolisthesis
+840,4957-F-069Y1,F,69,L5b,3,Anterolisthesis
+841,4959-M-081Y1,M,81,L3b,4,Retrolisthesis
+842,4961-F-074Y1,F,74,L2b,4,Retrolisthesis
+843,4969-F-088Y1,F,88,L3b,3,Anterolisthesis
+844,4969-F-088Y1,F,88,L4b,3,Anterolisthesis
+845,4999-M-041Y1,M,41,L4b,3,Anterolisthesis
+846,5003-F-065Y1,F,65,L3b,3,Anterolisthesis
+847,5012-F-068Y1,F,68,L2b,4,Retrolisthesis
+848,5033-F-063Y1,F,63,L4b,3,Anterolisthesis
+849,5037-F-043Y1,F,43,L5b,3,Anterolisthesis
+850,5040-F-064Y1,F,64,L3b,3,Anterolisthesis
+851,5040-F-064Y1,F,64,L4b,3,Anterolisthesis
+852,5049-F-087Y1,F,87,L5b,3,Anterolisthesis
+853,5054-F-063Y1,F,63,L2b,4,Retrolisthesis
+854,5054-F-063Y1,F,63,L3b,4,Retrolisthesis
+855,5061-F-060Y1,F,60,L4b,4,Retrolisthesis
+856,5063-M-072Y1,M,72,L2b,4,Retrolisthesis
+857,5076-F-054Y1,F,54,L3b,3,Anterolisthesis
+858,5079-F-080Y1,F,80,L5b,3,Anterolisthesis
+859,5080-F-084Y1,F,84,L5b,3,Anterolisthesis
+860,5089-F-073Y1,F,73,L4b,3,Anterolisthesis
+861,5100-M-056Y1,M,56,L4b,3,Anterolisthesis
+862,5106-F-051Y1,F,51,L3b,3,Anterolisthesis
+863,5126-F-071Y1,F,71,L3b,3,Anterolisthesis
+864,5133-F-040Y1,F,40,L3b,3,Anterolisthesis
+865,5148-F-063Y1,F,63,L3b,3,Anterolisthesis
+866,5148-F-063Y1,F,63,L4b,3,Anterolisthesis
+867,5158-F-061Y1,F,61,L4b,3,Anterolisthesis
+868,5160-F-019Y1,F,19,L5b,3,Anterolisthesis
+869,5185-F-058Y1,F,58,L3b,4,Retrolisthesis
+870,5204-F-055Y1,F,55,L4b,3,Anterolisthesis
+871,5206-M-055Y1,M,55,L3b,4,Retrolisthesis
+872,5215-M-080Y1,M,80,L3b,4,Retrolisthesis
+873,5216-F-082Y1,F,82,L4b,3,Anterolisthesis
+874,5244-F-020Y1,F,20,L4b,4,Retrolisthesis
+875,5248-F-068Y1,F,68,L4b,3,Anterolisthesis
+876,5248-F-068Y1,F,68,L5b,3,Anterolisthesis
+877,5258-F-061Y1,F,61,L2b,4,Retrolisthesis
+878,5263-F-064Y1,F,64,L4b,3,Anterolisthesis
+879,5271-F-064Y1,F,64,L3b,4,Retrolisthesis
+880,5278-M-050Y1,M,50,L3b,3,Anterolisthesis
+881,5282-F-075Y1,F,75,L3b,3,Anterolisthesis
+882,5303-M-055Y1,M,55,L2b,4,Retrolisthesis
+883,5303-M-055Y1,M,55,L3b,4,Retrolisthesis
+884,5303-M-055Y1,M,55,L4b,4,Retrolisthesis
+885,5326-F-064Y1,F,64,L4b,3,Anterolisthesis
+886,5337-F-058Y1,F,58,L4b,3,Anterolisthesis
+887,5339-F-077Y1,F,77,L5b,3,Anterolisthesis
+888,5642-F-063Y1,F,63,L2b,4,Retrolisthesis
+889,5642-F-063Y1,F,63,L3b,4,Retrolisthesis
+890,5642-F-063Y1,F,63,L4b,4,Retrolisthesis
+891,5647-M-065Y1,M,65,L1b,4,Retrolisthesis
+892,5647-M-065Y1,M,65,L3b,4,Retrolisthesis
+893,5654-M-065Y1,M,65,L2b,4,Retrolisthesis
+894,5655-M-036Y1,M,36,L3b,4,Retrolisthesis
+895,5656-M-072Y1,M,72,L3b,4,Retrolisthesis
+896,5673-F-078Y1,F,78,L5b,3,Anterolisthesis
+897,5678-F-027Y1,F,27,L5b,3,Anterolisthesis
+898,5711-M-026Y1,M,26,L3b,4,Retrolisthesis
+899,5725-M-051Y1,M,51,L5b,3,Anterolisthesis
+900,5739-F-078Y1,F,78,L3b,3,Anterolisthesis
+901,5743-M-080Y1,M,80,L1b,4,Retrolisthesis
+902,5743-M-080Y1,M,80,L2b,4,Retrolisthesis
+903,5756-F-066Y1,F,66,L5b,3,Anterolisthesis
+904,5766-M-019Y1,M,19,L4b,4,Retrolisthesis
+905,5777-F-083Y1,F,83,L5b,3,Anterolisthesis
+906,5780-M-068Y1,M,68,L1b,4,Retrolisthesis
+907,5797-M-064Y1,M,64,L5b,3,Anterolisthesis
+908,5810-M-043Y1,M,43,L3b,3,Anterolisthesis
+909,5815-F-026Y1,F,26,L5b,3,Anterolisthesis
+910,5831-F-061Y1,F,61,L4b,3,Anterolisthesis
+911,5838-F-076Y1,F,76,L4b,3,Anterolisthesis
+912,6086-F-062Y1,F,62,L4b,3,Anterolisthesis
+913,6111-F-063Y1,F,63,L4b,4,Retrolisthesis
+914,6119-F-056Y1,F,56,L4b,3,Anterolisthesis
+915,6121-F-065Y1,F,65,L1b,4,Retrolisthesis
+916,6121-F-065Y1,F,65,L4b,3,Anterolisthesis
+917,6122-F-059Y1,F,59,L4b,3,Anterolisthesis
+918,6125-M-044Y1,M,44,L3b,4,Retrolisthesis
+919,6125-M-044Y1,M,44,L5b,4,Retrolisthesis
+920,6127-F-032Y1,F,32,L4b,3,Anterolisthesis
+921,6134-F-060Y1,F,60,L3b,3,Anterolisthesis
+922,6134-F-060Y1,F,60,L4b,3,Anterolisthesis
+923,6163-M-050Y1,M,50,L3b,4,Retrolisthesis
+924,6165-F-071Y1,F,71,L4b,3,Anterolisthesis
+925,6169-F-062Y1,F,62,L4b,3,Anterolisthesis
+926,6201-F-059Y1,F,59,L2b,4,Retrolisthesis
+927,6201-F-059Y1,F,59,L4b,3,Anterolisthesis
+928,6204-M-057Y1,M,57,L2b,4,Retrolisthesis
+929,6222-F-055Y1,F,55,L3b,3,Anterolisthesis
+930,6229-F-078Y1,F,78,L4b,3,Anterolisthesis
+931,6252-F-069Y1,F,69,L4b,3,Anterolisthesis
+932,6272-F-056Y1,F,56,L4b,3,Anterolisthesis
+933,6272-F-056Y1,F,56,L5b,3,Anterolisthesis
+934,6287-F-048Y1,F,48,L3b,3,Anterolisthesis
+935,6290-M-031Y1,M,31,L2b,4,Retrolisthesis
+936,6295-F-056Y1,F,56,L5b,3,Anterolisthesis
+937,6299-M-040Y1,M,40,L4b,4,Retrolisthesis
+938,6312-M-059Y1,M,59,L5b,3,Anterolisthesis
+939,6320-F-059Y1,F,59,L5b,3,Anterolisthesis
+940,6326-F-053Y1,F,53,L4b,4,Retrolisthesis
+941,6327-F-067Y1,F,67,L4b,3,Anterolisthesis
+942,6332-M-071Y1,M,71,L2b,4,Retrolisthesis
+943,6333-F-064Y1,F,64,L4b,3,Anterolisthesis
+944,6341-F-064Y1,F,64,L5b,3,Anterolisthesis
+945,6347-F-074Y1,F,74,L3b,3,Anterolisthesis
+946,6347-F-074Y1,F,74,L4b,3,Anterolisthesis
+947,6349-F-058Y1,F,58,L5b,3,Anterolisthesis
+948,6355-F-079Y1,F,79,L3b,3,Anterolisthesis
+949,6357-M-070Y1,M,70,L2b,4,Retrolisthesis
+950,6360-F-077Y1,F,77,L4b,3,Anterolisthesis
+951,6374-F-067Y1,F,67,L3b,3,Anterolisthesis
+952,6386-F-072Y1,F,72,L2b,3,Anterolisthesis
+953,6386-F-072Y1,F,72,L3b,3,Anterolisthesis
+954,6395-F-057Y1,F,57,L3b,3,Anterolisthesis
+955,6395-F-057Y1,F,57,L5b,3,Anterolisthesis
+956,6412-M-070Y1,M,70,L4b,3,Anterolisthesis
+957,6445-M-078Y1,M,78,L1b,4,Retrolisthesis
+958,6445-M-078Y1,M,78,L2b,4,Retrolisthesis
+959,6455-F-062Y1,F,62,L3b,3,Anterolisthesis
+960,6456-M-075Y1,M,75,L5b,3,Anterolisthesis
+961,6478-M-069Y1,M,69,L3b,3,Anterolisthesis
+962,6483-M-083Y1,M,83,L1b,4,Retrolisthesis
+963,6486-F-065Y1,F,65,L3b,3,Anterolisthesis
+964,6486-F-065Y1,F,65,L4b,3,Anterolisthesis
+965,6494-F-056Y1,F,56,L3b,3,Anterolisthesis
+966,6505-M-081Y1,M,81,L2b,4,Retrolisthesis
+967,6505-M-081Y1,M,81,L3b,4,Retrolisthesis
+968,6505-M-081Y1,M,81,L5b,3,Anterolisthesis
+969,6520-F-069Y1,F,69,L3b,4,Retrolisthesis
+970,6520-F-069Y1,F,69,L4b,3,Anterolisthesis
+971,6520-F-069Y1,F,69,L5b,3,Anterolisthesis
+972,6523-F-045Y1,F,45,L4b,3,Anterolisthesis
+973,6523-F-045Y1,F,45,L5b,3,Anterolisthesis
+974,6525-F-071Y1,F,71,L3b,3,Anterolisthesis
+975,6539-F-063Y1,F,63,L4b,3,Anterolisthesis
+976,6543-F-060Y1,F,60,L4b,3,Anterolisthesis
+977,6556-M-034Y1,M,34,L4b,3,Anterolisthesis
+978,6564-F-052Y1,F,52,L4b,3,Anterolisthesis
+979,6578-F-069Y1,F,69,L5b,4,Retrolisthesis
+980,6579-F-086Y1,F,86,L3b,3,Anterolisthesis
+981,6582-M-034Y1,M,34,L5b,3,Anterolisthesis
+982,6598-F-064Y1,F,64,L3b,3,Anterolisthesis
+983,6602-F-066Y1,F,66,L1b,4,Retrolisthesis
+984,6602-F-066Y1,F,66,L2b,4,Retrolisthesis
+985,6602-F-066Y1,F,66,L4b,3,Anterolisthesis
+986,6602-F-066Y1,F,66,L5b,3,Anterolisthesis
+987,6636-M-067Y1,M,67,L4b,3,Anterolisthesis
+988,6644-F-070Y1,F,70,L4b,4,Retrolisthesis
+989,6646-F-043Y1,F,43,L5b,3,Anterolisthesis
+990,6656-M-073Y1,M,73,L2b,4,Retrolisthesis
+991,6656-M-073Y1,M,73,L3b,4,Retrolisthesis
+992,6671-F-064Y1,F,64,L4b,3,Anterolisthesis
+993,6689-M-069Y1,M,69,L5b,4,Retrolisthesis
+994,6696-F-052Y1,F,52,L4b,3,Anterolisthesis
+995,6701-M-044Y1,M,44,L4b,3,Anterolisthesis
+996,6709-F-052Y1,F,52,L4b,3,Anterolisthesis
+997,6724-F-065Y1,F,65,L3b,3,Anterolisthesis
+998,6724-F-065Y1,F,65,L4b,3,Anterolisthesis
+999,6749-F-082Y1,F,82,L5b,3,Anterolisthesis
+1000,6751-F-079Y1,F,79,L5b,3,Anterolisthesis
+1001,6772-M-046Y1,M,46,L5b,4,Retrolisthesis
+1002,6777-F-067Y1,F,67,L4b,3,Anterolisthesis
+1003,6782-F-060Y1,F,60,L3b,4,Retrolisthesis
+1004,6786-M-063Y1,M,63,L5b,3,Anterolisthesis
+1005,6804-F-073Y1,F,73,L3b,4,Retrolisthesis
+1006,6808-F-047Y1,F,47,L5b,3,Anterolisthesis
+1007,6809-M-052Y1,M,52,L2b,4,Retrolisthesis
+1008,6827-M-058Y1,M,58,L5b,3,Anterolisthesis
+1009,6855-F-077Y1,F,77,L4b,3,Anterolisthesis
+1010,6857-F-075Y1,F,75,L4b,3,Anterolisthesis
+1011,6858-F-063Y1,F,63,L2b,4,Retrolisthesis
+1012,6858-F-063Y1,F,63,L3b,4,Retrolisthesis
+1013,6960-F-066Y1,F,66,L5b,3,Anterolisthesis
+1014,6962-F-073Y1,F,73,L1b,4,Retrolisthesis
+1015,6968-F-053Y1,F,53,L5b,3,Anterolisthesis
+1016,6970-F-057Y1,F,57,L4b,3,Anterolisthesis
+1017,6973-F-076Y1,F,76,L4b,3,Anterolisthesis
+1018,6981-F-078Y1,F,78,L2b,3,Anterolisthesis
+1019,6981-F-078Y1,F,78,L3b,3,Anterolisthesis
+1020,6988-F-080Y1,F,80,L5b,3,Anterolisthesis
+1021,7000-M-066Y1,M,66,L4b,4,Retrolisthesis
+1022,7000-M-066Y1,M,66,L5b,3,Anterolisthesis
+1023,7004-M-069Y1,M,69,L1b,4,Retrolisthesis
+1024,7004-M-069Y1,M,69,L4b,3,Anterolisthesis
+1025,7005-F-054Y1,F,54,L3b,3,Anterolisthesis
+1026,7016-F-063Y1,F,63,L4b,3,Anterolisthesis
+1027,7019-F-074Y1,F,74,L5b,3,Anterolisthesis
+1028,7034-F-065Y1,F,65,L4b,3,Anterolisthesis
+1029,7036-F-059Y1,F,59,L3b,4,Retrolisthesis
+1030,7045-F-060Y1,F,60,L5b,3,Anterolisthesis
+1031,7047-M-074Y1,M,74,L4b,3,Anterolisthesis
+1032,7051-F-073Y1,F,73,L3b,4,Retrolisthesis
+1033,7052-M-072Y1,M,72,L3b,4,Retrolisthesis
+1034,7052-M-072Y1,M,72,L4b,4,Retrolisthesis
+1035,7073-M-064Y1,M,64,L5b,3,Anterolisthesis
+1036,7076-F-080Y1,F,80,L2b,4,Retrolisthesis
+1037,7085-F-056Y1,F,56,L4b,3,Anterolisthesis
+1038,7089-F-074Y1,F,74,L4b,3,Anterolisthesis
+1039,7093-F-085Y1,F,85,L1b,4,Retrolisthesis
+1040,7105-F-066Y1,F,66,L4b,3,Anterolisthesis
+1041,7110-M-044Y1,M,44,L5b,3,Anterolisthesis
+1042,7803-F-066Y1,F,66,L1b,4,Retrolisthesis
+1043,7803-F-066Y1,F,66,L2b,4,Retrolisthesis
+1044,7803-F-066Y1,F,66,L5b,3,Anterolisthesis
+1045,7814-F-064Y1,F,64,L4b,3,Anterolisthesis
+1046,7815-F-066Y1,F,66,L2b,4,Retrolisthesis
+1047,7838-M-060Y1,M,60,L4b,3,Anterolisthesis
+1048,7850-F-073Y1,F,73,L4b,3,Anterolisthesis
+1049,7863-M-080Y1,M,80,L2b,3,Anterolisthesis
+1050,7867-M-029Y1,M,29,L4b,4,Retrolisthesis
+1051,7871-M-072Y1,M,72,L1b,4,Retrolisthesis
+1052,7871-M-072Y1,M,72,L2b,4,Retrolisthesis
+1053,7871-M-072Y1,M,72,L4b,3,Anterolisthesis
+1054,7874-F-031Y1,F,31,L5b,3,Anterolisthesis
+1055,7875-F-087Y1,F,87,L4b,3,Anterolisthesis
+1056,7882-F-056Y1,F,56,L4b,3,Anterolisthesis
+1057,7885-F-089Y1,F,89,L5b,3,Anterolisthesis
+1058,7891-F-082Y1,F,82,L4b,3,Anterolisthesis
+1059,7901-F-053Y1,F,53,L4b,3,Anterolisthesis
+1060,7904-M-052Y1,M,52,L4b,3,Anterolisthesis
+1061,7913-M-068Y1,M,68,L2b,4,Retrolisthesis
+1062,7913-M-068Y1,M,68,L3b,4,Retrolisthesis
+1063,7925-M-064Y1,M,64,L2b,4,Retrolisthesis
+1064,7925-M-064Y1,M,64,L5b,3,Anterolisthesis
+1065,7932-F-072Y1,F,72,L4b,3,Anterolisthesis
+1066,7937-F-069Y1,F,69,L4b,3,Anterolisthesis
+1067,7954-F-077Y1,F,77,L5b,3,Anterolisthesis
+1068,7973-F-089Y1,F,89,L5b,3,Anterolisthesis
+1069,7978-F-075Y1,F,75,L4b,3,Anterolisthesis
+1070,7988-F-070Y1,F,70,L3b,3,Anterolisthesis
+1071,7990-F-083Y1,F,83,L2b,4,Retrolisthesis
+1072,7990-F-083Y1,F,83,L3b,4,Retrolisthesis
+1073,7998-F-085Y1,F,85,L4b,3,Anterolisthesis
+1074,8002-F-064Y1,F,64,L3b,3,Anterolisthesis
+1075,8008-F-070Y1,F,70,L4b,3,Anterolisthesis
+1076,8015-M-067Y1,M,67,L5b,3,Anterolisthesis
+1077,8017-F-071Y1,F,71,L3b,3,Anterolisthesis
+1078,8017-F-071Y1,F,71,L5b,3,Anterolisthesis
+1079,8027-F-061Y1,F,61,L2b,4,Retrolisthesis
+1080,8027-F-061Y1,F,61,L3b,4,Retrolisthesis
+1081,8027-F-061Y1,F,61,L5b,3,Anterolisthesis
+1082,8039-F-079Y1,F,79,L5b,3,Anterolisthesis
+1083,8061-F-077Y1,F,77,L4b,3,Anterolisthesis
+1084,8074-M-044Y1,M,44,L2b,4,Retrolisthesis
+1085,8074-M-044Y1,M,44,L3b,4,Retrolisthesis
+1086,8111-F-078Y1,F,78,L3b,3,Anterolisthesis
+1087,8111-F-078Y1,F,78,L4b,3,Anterolisthesis
+1088,8142-M-051Y1,M,51,L5b,3,Anterolisthesis
+1089,8156-F-090Y1,F,90,L4b,3,Anterolisthesis
+1090,8161-F-052Y1,F,52,L4b,3,Anterolisthesis
+1091,8174-F-065Y1,F,65,L4b,3,Anterolisthesis
+1092,8176-F-080Y1,F,80,L3b,3,Anterolisthesis
+1093,8176-F-080Y1,F,80,L4b,3,Anterolisthesis
+1094,8185-M-072Y1,M,72,L1b,4,Retrolisthesis
+1095,8198-M-089Y1,M,89,L2b,4,Retrolisthesis
+1096,8250-F-068Y1,F,68,L3b,4,Retrolisthesis
+1097,8251-F-074Y1,F,74,L1b,4,Retrolisthesis
+1098,8271-M-077Y1,M,77,L1b,4,Retrolisthesis
+1099,8278-F-070Y1,F,70,L4b,3,Anterolisthesis
+1100,8291-M-071Y1,M,71,L3b,3,Anterolisthesis
+1101,8291-M-071Y1,M,71,L4b,4,Retrolisthesis
+1102,8295-F-043Y1,F,43,L5b,3,Anterolisthesis
+1103,8299-F-074Y1,F,74,L4b,3,Anterolisthesis
+1104,8322-F-061Y1,F,61,L3b,3,Anterolisthesis
+1105,8338-F-064Y1,F,64,L4b,3,Anterolisthesis
+1106,8352-F-056Y1,F,56,L5b,3,Anterolisthesis
+1107,8362-F-065Y1,F,65,L1b,4,Retrolisthesis
+1108,8368-F-068Y1,F,68,L4b,3,Anterolisthesis
+1109,8371-M-056Y1,M,56,L5b,3,Anterolisthesis
+1110,8378-M-051Y1,M,51,L3b,4,Retrolisthesis
+1111,8394-F-094Y1,F,94,L4b,4,Retrolisthesis
+1112,8394-F-094Y1,F,94,L5b,3,Anterolisthesis
+1113,8401-F-073Y1,F,73,L4b,3,Anterolisthesis
+1114,8401-F-073Y1,F,73,L5b,3,Anterolisthesis
+1115,8419-F-083Y1,F,83,L2b,4,Retrolisthesis
+1116,8423-M-066Y1,M,66,L1b,4,Retrolisthesis
+1117,8426-F-071Y1,F,71,L3b,3,Anterolisthesis
+1118,8463-M-021Y1,M,21,L4b,4,Retrolisthesis
+1119,8465-F-081Y1,F,81,L4b,3,Anterolisthesis
+1120,8496-M-063Y1,M,63,L4b,4,Retrolisthesis
+1121,8506-F-071Y1,F,71,L2b,4,Retrolisthesis
+1122,8506-F-071Y1,F,71,L3b,4,Retrolisthesis
+1123,8511-M-061Y1,M,61,L5b,4,Retrolisthesis
+1124,8514-M-031Y1,M,31,L4b,4,Retrolisthesis
+1125,8520-F-042Y1,F,42,L5b,4,Retrolisthesis
+1126,8521-F-080Y1,F,80,L2b,4,Retrolisthesis
+1127,8523-F-070Y1,F,70,L4b,3,Anterolisthesis
+1128,8539-M-063Y1,M,63,L4b,3,Anterolisthesis
+1129,8549-F-076Y1,F,76,L5b,3,Anterolisthesis
+1130,8567-F-060Y1,F,60,L4b,3,Anterolisthesis
+1131,8575-F-066Y1,F,66,L4b,3,Anterolisthesis
+1132,8602-F-064Y1,F,64,L5b,3,Anterolisthesis
+1133,8623-F-088Y1,F,88,L2b,4,Retrolisthesis
+1134,8623-F-088Y1,F,88,L4b,4,Retrolisthesis
+1135,8623-F-088Y1,F,88,L5b,3,Anterolisthesis
+1136,8636-M-067Y1,M,67,L2b,4,Retrolisthesis
+1137,8636-M-067Y1,M,67,L5b,3,Anterolisthesis
